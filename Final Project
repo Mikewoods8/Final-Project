@@ -1,4 +1,0 @@
-print("The Double Loop Board Game")
-print("Objective - There are 30 spots around the board, the goal of the game is to be the first person to complete TWO loops around the board, traveling a total of at least 60 spaces")
-print("Rules - each player will roll to determine the order, the highest roll will go first and the lowest roll will go last. Once the game has started each player will roll ONE die and move forward that number of spaces. The first person to complete TWO cycles around the board will be the winner!")
-print("Beware! Some spots may send you back to the start, allow you to jump forward or backwards on the board, or give/take a roll from you")
