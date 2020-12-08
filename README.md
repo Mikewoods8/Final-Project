@@ -1,7 +1,5 @@
-# Final-Project-Preposal
+# Final-Project
 
-1. For our final project we plan to make some type of game that involves rolling a dice. We would like to make it more of a board game style where you roll a dice in order to progress forward in hopes of reaching the finish line first. Maybe we could add some spots where you could go back to the start or skip a turn. 
+I worked with Stephen Heckert on the final project and our project title is called "Fortune Road Board Game" 
 
-2. I will be collaborating with Stephen Heckert.
-
-3. As of now I don't have any questions that come to mind. 
+When you first run our board game you will see the objective and rules followed by a prompt which asks how many players there will be (2-4?). 
